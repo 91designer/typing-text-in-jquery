@@ -1,7 +1,12 @@
 $(document).ready(function(){
 
     $("span").typed({
-              strings: ["hello world"," I'm mohamed "," I hope you like my git-hub tutorial ","how to publish your project on gIT-HUB","let's go.."],
+              strings: ["hello world",
+              "My name is Mohamed Morh",
+              "I hope you like my first page on git-hub",
+              "actually I like this experience cuz..",
+              "it helped mu so much to save my documents hahaha"
+            ],
               typeSpeed: 20,
               startDelay: 1000,
               backSpeed: 10,
